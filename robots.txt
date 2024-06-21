@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ickonage.github.io/sitemap
+Sitemap: https://ickonage.github.io/app/sitemap
+Sitemap: https://ickonage.github.io/assets/sitemap
+Sitemap: https://ickonage.github.io/css/sitemap
+Sitemap: https://ickonage.github.io/includes/sitemap
+Sitemap: https://ickonage.github.io/item/sitemap
+Sitemap: https://ickonage.github.io/src/sitemap
